@@ -8,7 +8,7 @@ editor: visual
 
 We've named this file `index` because that tells GitHub to render it
 
-In Github, go to the repo, go to pages, select root as the dir
+In Github, go to the repo, go to pages, deploy from branch main, select root as the dir
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
